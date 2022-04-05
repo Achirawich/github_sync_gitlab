@@ -17,6 +17,7 @@
     "supertest": "^6.2.2"
   },
   "jest": {
+    "testEnvironment": "node",
     "coveragePathIgnorePatterns": [
       "/node_module/"
     ]
